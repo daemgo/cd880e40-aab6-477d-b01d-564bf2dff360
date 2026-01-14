@@ -1,0 +1,29 @@
+{
+  "profile": {
+    "companyName": "新客户",
+    "industry": "其他",
+    "scale": "中型",
+    "rating": "B",
+    "tags": [
+      "其他",
+      "潜在客户"
+    ],
+    "contacts": [
+      {
+        "name": "待补充",
+        "role": "待补充",
+        "phone": "",
+        "email": "",
+        "influence": "待评估"
+      }
+    ],
+    "requirements": [],
+    "painPoints": [],
+    "budget": {
+      "range": "待评估",
+      "deliveryTime": "待评估",
+      "decisionCycle": "待评估",
+      "intentionLevel": 50
+    }
+  }
+}
