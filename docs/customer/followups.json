@@ -1,3 +1,17 @@
 {
-  "records": []
+  "records": [
+    {
+      "id": "FU-20260128-001",
+      "date": "2026-01-28",
+      "contactPerson": "马化腾",
+      "contactType": "面谈",
+      "duration": "30分钟",
+      "topic": "项目初步交流",
+      "content": "与马化腾进行了初步交流沟通。 Pony 对项目表示认可，认为项目'挺好的，有点意思'。他对项目的整体方向和价值给予了正面评价。",
+      "nextStep": "安排下次正式会议，深入沟通项目细节和合作方案",
+      "status": "跟进中",
+      "sentiment": "积极",
+      "followUpDate": "2026-01-31"
+    }
+  ]
 }

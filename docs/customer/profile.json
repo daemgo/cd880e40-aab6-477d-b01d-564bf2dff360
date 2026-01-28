@@ -29,7 +29,9 @@
       "range": "50万",
       "deliveryTime": "待评估",
       "decisionCycle": "待评估",
-      "intentionLevel": 60
+      "intentionLevel": 70,
+      "lastContactDate": "2026-01-28",
+      "lastFeedback": "认可项目价值，认为项目挺好的，有点意思"
     }
   }
 }
